@@ -1,2 +1,2 @@
-# flask-template
-Flask template for Flask App.
+# django-bootstrap-template
+django-bootstrap-template
