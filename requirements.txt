@@ -9,8 +9,11 @@ cryptography
 dataset
 fastapi
 flask
+flask-htmx
+flask-login
 gunicorn
 jinja2
+peewee
 psycopg2-binary
 pip
 python-dateutil
