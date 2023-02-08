@@ -1,10 +1,4 @@
 arrow
-azure-common
-azure-core
-azure-functions
-azure-nspkg
-azure-storage-blob
-azure-storage-file-datalake
 cryptography
 dataset
 fastapi
@@ -14,14 +8,14 @@ flask-login
 gunicorn
 jinja2
 peewee
-psycopg2-binary
 pip
+psycopg2-binary
 python-dateutil
 python-dotenv
 pytz
 redis
-rich
 requests
+rich
 tqdm
 uamqp
 urllib3
