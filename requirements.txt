@@ -1,4 +1,10 @@
+aioboto3
+aiobotocore
+aiofile
+aioredis
 arrow
+boto3
+botocore
 cryptography
 dataset
 fastapi
@@ -6,7 +12,11 @@ flask
 flask-htmx
 flask-login
 gunicorn
+hiredis
 jinja2
+numpy
+pandas
+pandas-market-calendars
 peewee
 pip
 psycopg2-binary
@@ -16,6 +26,7 @@ pytz
 redis
 requests
 rich
+scipy
 tqdm
 uamqp
 urllib3
